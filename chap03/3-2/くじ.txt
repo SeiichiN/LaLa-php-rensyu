@@ -1,0 +1,11 @@
+
+kujiForm.html
+  <a href="kuji.php">くじをひく</a>
+
+kuji.php
+  $kuji = mt_rand(1, 3);
+  1 -- 大吉
+  2 -- 吉
+  3 -- 凶
+  
+  
