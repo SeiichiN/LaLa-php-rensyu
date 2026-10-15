@@ -1,0 +1,9 @@
+
+omikuji() 関数
+引数：なし
+戻り値：大吉、吉、凶
+
+
+$unsei = omikuji();
+echo "今日の運勢は、{$unsei}です";
+
